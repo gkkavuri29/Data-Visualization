@@ -1,0 +1,8 @@
+Crime Data:
+
+https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/home
+
+Economin Data:
+
+data.census.gov
+https://data.census.gov/table/ACSDP1Y2022.DP03?q=economic%20characters
